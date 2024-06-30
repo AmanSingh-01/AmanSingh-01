@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AmanSingh-01
 - 👀 I’m interested in Learning New Skills
-- 🌱 I’m currently learning Full Stack Development
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on projects on Full Stack Development 
 - 📫 To reach me, mail at- singha6049@gnail.com
 
