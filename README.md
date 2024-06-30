@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @AmanSingh-01
+- 👋 Hi, I’m Aman Kumar Singh
 - 👀 I’m interested in Learning New Skills
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on projects on Full Stack Development 
-- 📫 To reach me, mail at- singha6049@gnail.com
+- 📫 To reach me, mail at- singha6049@gmail.com
 
 <!---
 arinjayg/arinjayg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
